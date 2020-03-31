@@ -1,0 +1,7 @@
+Flask==0.12
+tweepy==3.5.0
+gunicorn==19.7.1
+requests==2.13.0
+requests-oauthlib==0.8.0
+oauthlib==2.0.2
+Flask-Sockets==0.2.1
